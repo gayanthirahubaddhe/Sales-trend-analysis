@@ -1,0 +1,28 @@
+Sales Trend Analysis Report - Superstore Dataset
+
+Objective
+The analysis focuses on identifying sales trends, seasonal patterns, and anomalies using sales data from the Superstore Dataset. The goal is to uncover key insights that can inform business strategies.
+
+Key Insights
+Sales Trend:
+The analysis reveals a gradual upward trend in monthly sales over the period from 2014 to 2017.
+Notable peaks in sales are observed during the holiday season (November and December), indicating that these months consistently experience stronger sales.
+
+Seasonality:
+
+The data shows strong seasonality, with sales consistently peaking in the holiday season (November and December) each year.
+This indicates that promotional campaigns, festive buying behavior, and holidays drive the sales increase during this period.
+
+Anomalies:
+
+A dip in sales is observed during the mid-year months (July and August), which is consistent across multiple years.
+This could point to a seasonal slowdown or other external factors such as operational changes, market conditions, or consumer behavior shifts.
+
+Tools & Methodology
+The analysis was conducted using R, with libraries such as tidyverse, lubridate, ggplot2, gganimate, and gifski for data manipulation, visualization, and animation.
+The dataset used for the analysis was sourced from Kaggle - Superstore Dataset.
+Various visualizations, including line plots, seasonality maps, and animated plots, were created to illustrate sales trends and anomalies.
+
+Conclusion
+The Superstore dataset analysis reveals consistent seasonal sales behavior, with significant peaks during the holiday season and a mid-year sales dip.
+Understanding these patterns can help in making data-driven decisions regarding inventory management, promotions, and marketing strategies to optimize sales performance.
